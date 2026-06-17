@@ -1,1 +1,32 @@
-
+{
+  "configVersion": 1,
+  "animations": [
+    {
+      "id": "heart",
+      "name": "Heart",
+      "category": "emoji",
+      "type": "lottie",
+      "fileUrl": "asset://heart.json",
+      "thumbnailUrl": null,
+      "version": 1
+    },
+    {
+      "id": "star",
+      "name": "Star",
+      "category": "emoji",
+      "type": "lottie",
+      "fileUrl": "asset://star.json",
+      "thumbnailUrl": null,
+      "version": 1
+    },
+    {
+      "id": "dot",
+      "name": "Bouncing Dot",
+      "category": "basic",
+      "type": "lottie",
+      "fileUrl": "asset://dot.json",
+      "thumbnailUrl": null,
+      "version": 1
+    }
+  ]
+}
